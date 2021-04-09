@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebastien73
 - 👀 I’m interested in web developper work. 
-- 🌱 I’m currently learning : html / css / javascript for front end develloper. I a new user on Linux ! After I think to learn a language for back end.
+- 🌱 I’m currently learning : html / css / javascript for front end develloper. After I think to learn a language for back end as Python maybe. I'm a new linux user too. I use Mint distribution.
 - 💞️ I’m looking to collaborate on web dev community. I need to improve my skills and begin a good web dev.
 - 📫 How to reach me, you can contact me at this adress : jssebastienjacquelin@hotmail.com or LinkedIn : https://www.linkedin.com/in/sébastien-jacquelin-a85445108/
 
